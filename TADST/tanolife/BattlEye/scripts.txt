@@ -1,0 +1,11 @@
+//new2
+7 "forceRespawn"  !="forcerespawn player;" !="Helper\",\"BIS_fnc_reviveRemoveHelper\",\"BIS_fnc_reviveHandleForceRespawnAction\",\"BIS_fnc_reviveHandleIncapUnitDetection\",\"BIS_fnc_" !="[\"a3\functions_f_mp_mark\revive\fn_reviveHandleForceRespawnAction.sqf\",\".sqf\",0,false,false,false,\"A3_Mark\",\"Revive\",\"reviveHand" !="_reviveHandleReviveAction;\n\n\n[] spawn bis_fnc_reviveHandleForceRespawnAction;\n\n\n[] spawn bis_fnc_reviveHandleIncapUnitDetection;"
+7 _typeofHookMonky
+7 _allocMemory !="_allocMemory2769"
+7 _d3d9multipliervariable
+7 _runASM
+7 _addGFX_hookD3D9eventhandler
+7 _BEhookBYPASSBOB
+7 "!(isNil \"FN_infiSTAR_C\")"
+7 "Ammo Activated"
+7 "     +             "
